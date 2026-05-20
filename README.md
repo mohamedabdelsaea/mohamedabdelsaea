@@ -27,7 +27,6 @@ Experienced in state management, API integration, Firebase services, and clean a
 - Git & GitHub
 - Localization
 - Dark & Light Theme
-- Problem Solving
 - Debugging
 
 ## 🌐 Socials:
